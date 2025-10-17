@@ -100,7 +100,7 @@ create_visualizations()
 
 - **[Time Tracking Guide](./docs/time_tracking_guide.md)** - How to accurately track your hours
 - **[Metrics Explained](./docs/metrics_explained.md)** - Understanding each metric
-- **[Example Notebook](./billion_tracker_example.ipynb)** - Copy-paste template
+- **[Example Notebook](./billion_tracker.ipynb)** - Notebook version
 - **[FAQ](./docs/faq.md)** - Common questions
 
 ## 🎓 Course Integration
@@ -123,11 +123,11 @@ This tracker is designed for Billion students following the 12-week curriculum:
 ## 🤝 Community
 
 Join the Billion community:
-- 💬 [WhatsApp Community](https://billion.blog/community) - Daily support
-- 📧 [Weekly Newsletter](https://billion.blog/newsletter) - AI trends for operators
-- 🎓 [Full Course](https://billion.blog/course) - 12-week transformation
-- 🐦 [Twitter/X](https://x.com/billionblog) - Daily tips
-- 💼 [LinkedIn](https://linkedin.com/company/billion-blog) - Case studies
+- 💬 [WhatsApp Community](https://billion.tech/community) - Daily support
+- 📧 [Weekly Newsletter](https://billion.tech/newsletter) - AI trends for operators
+- 🎓 [Full Course](https://billion.tech/course) - 12-week transformation
+- 🐦 [Twitter/X](https://x.com/billiondottech) - Daily tips
+
 
 ## 📊 Example Outputs
 
@@ -287,9 +287,9 @@ MIT License - feel free to use and modify for your needs.
 
 ## 🙏 Acknowledgments
 
-Built for the Billion community by [Prof. Rod Rivera](https://billion.blog/about).
+Built for the Billion community by [Prof. Rod Rivera](https://billion.tech/about).
 
-Inspired by [Oliver's transformation journey](https://billion.blog/oliver) from chaos to 80% automation.
+Inspired by [Oliver's transformation journey](https://billion.tech/oliver) from chaos to 80% automation.
 
 Special thanks to:
 - All Billion students sharing their progress
@@ -300,10 +300,10 @@ Special thanks to:
 
 After mastering the tracker:
 
-1. **Complete the course**: [Join Billion](https://billion.blog/join)
-2. **Build your AIAgencyOS**: [Setup guide](https://billion.blog/aiagencyos)
-3. **Join the community**: [WhatsApp group](https://billion.blog/community)
-4. **Share your wins**: Tag @billionblog on social media
+1. **Complete the course**: [Join Billion](https://billion.tech/join)
+2. **Build your AIAgencyOS**: [Setup guide](https://billion.tech/aiagencyos)
+3. **Join the community**: [WhatsApp group](https://billion.tech/community)
+4. **Share your wins**: Tag @billiondottech on social media
 5. **Help others**: Mentor new students in the community
 
 ---
@@ -342,4 +342,4 @@ A: Create separate folders/databases for each person.
 
 ---
 
-Made with ❤️ by [Billion](https://billion.blog) | [Course](https://billion.blog/course) | [Community](https://billion.blog/community) | [Newsletter](https://billion.blog/newsletter)
+Made with ❤️ by [Billion](https://billion.tech) | [Course](https://billion.tech/course) | [Community](https://billion.tech/community) | [Newsletter](https://billion.tech/newsletter)
